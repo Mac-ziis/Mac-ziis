@@ -13,7 +13,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-003776?style=for-the-badge&logo=node.js&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-5E60CE?style=for-the-badge&logo=sql&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-6C3483?style=for-the-badge&logo=c-sharp&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=black)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mac-ziis&show_icons=true&theme=dark)
 
