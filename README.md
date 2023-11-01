@@ -14,8 +14,4 @@
 ![SQL](https://img.shields.io/badge/SQL-5E60CE?style=for-the-badge&logo=sql&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-6C3483?style=for-the-badge&logo=c-sharp&logoColor=black)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mac-ziis&show_icons=true&theme=dark)
-
-
 </div>
